@@ -19,17 +19,17 @@ Very versatile and quickly adapt to challenging situations and deliver results.
 <!-- #### Top Technologies -->
 
 <!-- TODO: Make technologies links takes you to repositories -->
-<!-- 
- [![laravel Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![AWS Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![flutter Badge]()](#) [![Mysql    Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Git Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
 
+ [![laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![AWS Badge](https://img.shields.io/badge/-Flutter-0083d5?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Mysql    Badge](https://img.shields.io/badge/-AWS-ffffff?style=for-the-badge&labelColor=black&logo=node.js&logoColor=ffff)](#) [![Git Badge](https://img.shields.io/badge/-GIT-fb503b?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
+<!-- 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascripttutorial]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial] 
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial]  -->
+<!-- 
 <img align="left" alt="Laravel" width="26px" src="https://th.bing.com/th/id/OIP.VGFwr9-Ftm8no2bL52oG2gAAAA?pid=ImgDet&rs=1" />
 
 <img align="left" alt="AWS" width="26px" src="https://th.bing.com/th/id/OIP.tFl-8wQUENETYLjX5mYWuAHaD4?w=337&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
@@ -40,6 +40,6 @@ Very versatile and quickly adapt to challenging situations and deliver results.
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
 
-<br /> -->
+<br /> 
